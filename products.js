@@ -18,11 +18,6 @@ function createItem(product) {
             </div>
 
             <div class="info-row">
-              <img src="/images/assets/size.png" alt="Size" />
-              <span>${product.size}</span>
-            </div>
-
-            <div class="info-row">
               <img src="/images/assets/euro.png" alt="Price" />
               <span>${product.price}</span>
             </div>
@@ -35,8 +30,7 @@ const products = [
     {
         title: "ΑΣΠΡΗ [3] ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/white_bag3.png"
     },
@@ -44,8 +38,7 @@ const products = [
     {
         title: "ΓΑΛΑΖΙΑ ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/light_blue_bag.png"
     },
@@ -53,8 +46,7 @@ const products = [
     {
         title: "ΜΑΥΡΗ ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/black_bag.png"
     },
@@ -62,8 +54,7 @@ const products = [
     {
         title: "ΚΑΦΕ [2] ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/brown_bag2.png"
     },
@@ -71,8 +62,7 @@ const products = [
     {
         title: "ΜΩΒ ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/purple_bag.png"
     },
@@ -80,8 +70,7 @@ const products = [
     {
         title: "ΑΣΠΡΗ [2] ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/white_bag2.png"
     },
@@ -89,8 +78,7 @@ const products = [
     {
         title: "ΜΠΛΕ ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/blue_bag.png"
     },
@@ -98,8 +86,7 @@ const products = [
     {
         title: "ΠΡΑΣΙΝΟΣ ΦΑΚΕΛΟΣ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/green_something.png"
     },
@@ -107,8 +94,7 @@ const products = [
     {
         title: "ΚΑΦΕ [1] ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/brown_bag.png"
     },
@@ -116,8 +102,7 @@ const products = [
     {
         title: "ΑΣΠΡΗ [1] ΤΣΑΝΤΑ",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/white_bag.png"
     },
@@ -125,8 +110,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag36.jpg"
     },
@@ -134,8 +118,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag1.jpg"
     },
@@ -143,8 +126,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag.jpg"
     },
@@ -152,8 +134,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag2.jpg"
     },
@@ -161,8 +142,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag3.jpg"
     },
@@ -170,8 +150,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag4.jpg"
     },
@@ -179,8 +158,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag5.jpg"
     },
@@ -188,8 +166,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag6.jpg"
     },
@@ -197,8 +174,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag7.jpg"
     },
@@ -206,8 +182,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag8.jpg"
     },
@@ -215,8 +190,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag9.jpg"
     },
@@ -224,8 +198,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag10.jpg"
     },
@@ -233,8 +206,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag11.jpg"
     },
@@ -242,8 +214,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag12.jpg"
     },
@@ -251,8 +222,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag13.jpg"
     },
@@ -260,8 +230,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag14.jpg"
     },
@@ -269,8 +238,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag15.jpg"
     },
@@ -278,8 +246,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag16.jpg"
     },
@@ -287,8 +254,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag17.jpg"
     },
@@ -296,8 +262,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag17.jpg"
     },
@@ -305,8 +270,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag18.jpg"
     },
@@ -314,8 +278,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag19.jpg"
     },
@@ -323,8 +286,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag20.jpg"
     },
@@ -332,8 +294,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag21.jpg"
     },
@@ -341,8 +302,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag22.jpg"
     },
@@ -350,8 +310,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag23.jpg"
     },
@@ -359,8 +318,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag24.jpg"
     },
@@ -368,8 +326,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag25.jpg"
     },
@@ -377,8 +334,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag26.jpg"
     },
@@ -386,8 +342,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag27.jpg"
     },
@@ -395,8 +350,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag28.jpg"
     },
@@ -404,8 +358,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag29.jpg"
     },
@@ -413,8 +366,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag30.jpg"
     },
@@ -422,8 +374,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag31.jpg"
     },
@@ -431,8 +382,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag32.jpg"
     },
@@ -440,8 +390,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag33.jpg"
     },
@@ -449,8 +398,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag34.jpg"
     },
@@ -458,8 +406,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag35.jpg"
     },
@@ -467,8 +414,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag37.jpg"
     },
@@ -476,8 +422,7 @@ const products = [
     {
         title: "TITLE",
         description: "",
-        material: "MATERIAL",
-        size: "SIZE",
+        material: " Βαμβάκι",
         price: "PRICE",
         image: "/images/products/bag38.jpg"
     },
