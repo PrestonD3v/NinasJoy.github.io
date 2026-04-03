@@ -35,7 +35,7 @@ h2 {
 .items {
     display: grid;
     grid-template-columns: repeat(5, minmax(260px, 1fr));
-    gap: 32px;
+    gap: 45px;
     padding: 20px;
     justify-items: center;
 }
@@ -166,4 +166,4 @@ footer li:active{
   .contact-element:hover {
     transform: scale(1.05);
   }
-} 
+}
