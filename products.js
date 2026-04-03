@@ -28,7 +28,7 @@ function createItem(product) {
 
 const products = [
     {
-        title: "ΑΣΠΡΗ [3] ΤΣΑΝΤΑ",
+        title: "Άσπρη [3] τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -36,7 +36,7 @@ const products = [
     },
 
     {
-        title: "ΓΑΛΑΖΙΑ ΤΣΑΝΤΑ",
+        title: "Γαλάζια τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -44,7 +44,7 @@ const products = [
     },
 
     {
-        title: "ΜΑΥΡΗ ΤΣΑΝΤΑ",
+        title: "Μαύρη τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -52,7 +52,7 @@ const products = [
     },
 
     {
-        title: "ΚΑΦΕ [2] ΤΣΑΝΤΑ",
+        title: "Καφέ [2] τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -60,7 +60,7 @@ const products = [
     },
 
     {
-        title: "ΜΩΒ ΤΣΑΝΤΑ",
+        title: "Μωβ τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -68,7 +68,7 @@ const products = [
     },
 
     {
-        title: "ΑΣΠΡΗ [2] ΤΣΑΝΤΑ",
+        title: "Άσπρη [2] τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -76,7 +76,7 @@ const products = [
     },
 
     {
-        title: "ΜΠΛΕ ΤΣΑΝΤΑ",
+        title: "Μπλε τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -84,7 +84,7 @@ const products = [
     },
 
     {
-        title: "ΠΡΑΣΙΝΟΣ ΦΑΚΕΛΟΣ",
+        title: "Πράσινος φάκελος",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -92,7 +92,7 @@ const products = [
     },
 
     {
-        title: "ΚΑΦΕ [1] ΤΣΑΝΤΑ",
+        title: "Καφέ [1] τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
@@ -100,7 +100,7 @@ const products = [
     },
 
     {
-        title: "ΑΣΠΡΗ [1] ΤΣΑΝΤΑ",
+        title: "Άσπρη [1] τσάντα",
         description: "",
         material: " Cotton",
         price: "PRICE",
