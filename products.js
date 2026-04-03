@@ -120,6 +120,14 @@ const products = [
         description: "",
         material: " Βαμβάκι",
         price: "PRICE",
+        image: "/images/products/bag39.jpg"
+    },
+
+    {
+        title: "TITLE",
+        description: "",
+        material: " Βαμβάκι",
+        price: "PRICE",
         image: "/images/products/bag1.jpg"
     },
 
