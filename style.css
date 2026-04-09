@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: rgb(253, 252, 248);
     font-family:'Trebuchet MS', Arial, sans-serif;
@@ -88,8 +92,8 @@ h2 {
 
     .item-display {
         max-width: 90%;
-      }
     }
+}
 
 footer {
     margin-top: auto;
@@ -170,7 +174,6 @@ footer img {
 
 .contact-element {
     text-decoration: none;
-
     transform: scale(1);
     transition: transform 0.25s ease;
 }
@@ -195,6 +198,63 @@ footer img {
   width: 70%;
   height: 70%;
   object-fit: cover;
+}
+
+.back-to-top {
+  background-color: white;
+  box-shadow: 0px 0px 10px rgb(188, 188, 188);
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  opacity: 0;
+  visibility: hidden;
+  transform: scale(0.5);
+
+  transition: 
+    opacity 0.3s ease,
+    transform 0.3s ease,
+    visibility 0.3s ease,
+    background-color 0.5s ease;
+}
+
+.back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+  transform: scale(1);
+}
+
+.back-to-top img {
+  width: 50%;
+  height: 60%;
+  object-fit: cover;
+  transition: filter 0.5s ease;
+}
+
+.back-to-top.active {
+  background-color: black;
+}
+
+.back-to-top.active img {
+  filter: invert(1);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .back-to-top:hover {
+    background-color: black;
+  }
+
+  .back-to-top:hover img {
+    filter: invert(1);
+  }
 }
 
 footer li {
