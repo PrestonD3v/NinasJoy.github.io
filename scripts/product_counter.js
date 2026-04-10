@@ -3,7 +3,9 @@ async function loadCounts() {
         { id: "bags-count", path: "bags/products.json", label: "Τσάντες" },
         { id: "seasonal-count", path: "seasonal/products.json", label: "Εποχιακά" },
         { id: "men-count", path: "men_accessories/products.json", label: "Ανδρικά Αξεσουάρ" },
-        { id: "women-count", path: "women_accessories/products.json", label: "Γυναικεία Αξεσουάρ" }
+        { id: "women-count", path: "women_accessories/products.json", label: "Γυναικεία Αξεσουάρ" },
+        { id: "summer-count", path: "bags/summer/products.json", label: "Καλοκαρινές" },
+        { id: "winter-count", path: "bags/winter/products.json", label: "Χειμωνιάτικες" }
     ];
 
     for (const category of categories) {
