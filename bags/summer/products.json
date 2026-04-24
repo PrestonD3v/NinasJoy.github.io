@@ -1,0 +1,307 @@
+[
+    {
+        "title": "Élanor",
+        "material": "Diva no. 4, Ψάθα",
+        "size": "",
+        "color" : "Μπεζ",
+        "price": "",
+        "image": "../bags/images/bag.png"
+    },
+
+    {
+        "title": "Blanc",
+        "material": "Cord Yarn Medium",
+        "size": "",
+        "color" : "Λευκό",
+        "price": "",
+        "image": "../bags/images/bag2.png"
+    },
+
+    {
+        "title": "Θάλασσα",
+        "material": "Μακό νήμα",
+        "size": "",
+        "color" : "Μαύρο - Λευκό - Μπλε - Γαλάζιο",
+        "price": "",
+        "image": "../bags/images/bag3.png"
+    },
+
+    {
+        "title": "Melody",
+        "material": "Fettuccione",
+        "size": "42cm x 26cm x 23cm",
+        "color" : "Λιλά",
+        "price": "",
+        "image": "../bags/images/bag4.png"
+    },
+
+    {
+        "title": "Bowtie",
+        "description": "(Φάκελος)",
+        "material": "Diva no. 4",
+        "size": "Όλες",
+        "color" : "Μαύρο",
+        "price": "",
+        "image": "../bags/images/bag6.png"
+    },
+
+    {
+        "title": "Eclipse",
+        "description": "",
+        "material": "Μακό νήμα",
+        "size": "35cm x 22cm x 10cm",
+        "color" : "Μαύρο",
+        "price": "",
+        "image": "../bags/images/bag7.png"
+    },
+
+    {
+        "title": "Terra Cotta",
+        "description": "",
+        "material": "Cord Yarn Medium",
+        "size": "40cm x 27cm",
+        "color" : "Καφέ",
+        "price": "",
+        "image": "../bags/images/bag8.png"
+    },
+
+    {
+        "title": "Marina",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "36cm x 23cm x 15cm",
+        "color" : "Μπλε Ηλεκτρίκ",
+        "price": "",
+        "image": "../bags/images/bag9.png"
+    },
+
+    {
+        "title": "Chloe",
+        "description": "(Φάκελος)",
+        "material": "Marshmallow",
+        "size": "25cm x 24cm",
+        "color" : "Λαχανί - Λευκό",
+        "price": "",
+        "image": "../bags/images/bag14.png"
+    },
+
+    {
+        "title": "Irida",
+        "description": "",
+        "material": "Fettuccione",
+        "size": "31cm x 29cm",
+        "color" : "Γκρι",
+        "price": "",
+        "image": "../bags/images/bag16.png"
+    },
+
+    {
+        "title": "Chessboard",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "34cm x 30cm x 13cm",
+        "color" : "Μαύρο - Λευκό",
+        "price": "",
+        "image": "../bags/images/bag17.png"
+    },
+
+    {
+        "title": "Amber",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "35cm x 25cm x 13cm",
+        "color" : "Λευκό",
+        "price": "",
+        "image": "../bags/images/bag18.png"
+    },
+
+    {
+        "title": "Sunflower",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "38cm x 30cm x 13cm",
+        "color" : "Camel",
+        "price": "",
+        "image": "../bags/images/bag19.png"
+    },
+
+    {
+        "title": "Vellina",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "31cm x 20cm x 14cm",
+        "color" : "Ρόζ - Σκούρο Ρόζ",
+        "price": "",
+        "image": "../bags/images/bag21.png"
+    },
+
+    {
+        "title": "Viorelle",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "31cm x 20cm x 14cm",
+        "color" : "Ματζέντα - Μπεζ",
+        "price": "",
+        "image": "../bags/images/bag22.png"
+    },
+
+    {
+        "title": "Nix",
+        "description": "(Φάκελος)",
+        "material": "Μακό νήμα",
+        "size": "41cm x 24cm",
+        "color" : "Navy Blue",
+        "price": "",
+        "image": "../bags/images/bag23.png"
+    },
+
+    {
+        "title": "Florèa",
+        "description": "(Φάκελος)",
+        "material": "Μακό νήμα",
+        "size": "33cm x 23cm",
+        "color" : "Μπεζ",
+        "price": "",
+        "image": "../bags/images/bag24.png"
+    },
+
+    {
+        "title": "Bebeka",
+        "description": "",
+        "material": "Μακό νήμα",
+        "size": "36cm x 29cm x 9cm",
+        "color" : "Ραφ",
+        "price": "",
+        "image": "../bags/images/bag25.png"
+    },
+
+    {
+        "title": "Mocca",
+        "description": "(Φάκελος)",
+        "material": "Diva no. 4",
+        "size": "30cm x 20cm",
+        "color" : "Λευκό - Μπεζ",
+        "price": "",
+        "image": "../bags/images/bag26.png"
+    },
+
+    {
+        "title": "Aura",
+        "description": "",
+        "material": "Cord Yarn Medium",
+        "size": "31cm x 29cm",
+        "color" : "Λευκό",
+        "price": "",
+        "image": "../bags/images/bag27.png"
+    },
+
+    {
+        "title": "Azul",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "27cm x 26cm x 9cm",
+        "color" : "Γαλάζιο - Ραφ",
+        "price": "",
+        "image": "../bags/images/bag28.png"
+    },
+
+    {
+        "title": "Velvet Mint",
+        "description": "",
+        "material": "Marshmallow Velvet",
+        "size": "20cm x 16cm",
+        "color" : "Μεντί",
+        "price": "",
+        "image": "../bags/images/bag29.png"
+    },
+
+    {
+        "title": "Sandy",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "30cm x 25cm x 15cm",
+        "color" : "Μπεζ - Λευκό",
+        "price": "",
+        "image": "../bags/images/bag30.png"
+    },
+
+    {
+        "title": "Blush",
+        "description": "",
+        "material": "Marshmallow Fluffy",
+        "size": "26cm x 23cm",
+        "color" : "Λιλά",
+        "price": "",
+        "image": "../bags/images/bag31.png"
+    },
+
+    {
+        "title": "Olea",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "31cm x 20cm x 14cm",
+        "color" : "Πράσινο - Μπεζ",
+        "price": "",
+        "image": "../bags/images/bag32.png"
+    },
+    
+    {
+        "title": "Aura",
+        "description": "",
+        "material": "Marshmallow",
+        "size": "",
+        "color" : "Λαχανί",
+        "price": "",
+        "image": "../bags/images/bag33.png"
+    },
+    
+    {
+        "title": "Sunset Mix",
+        "description": "",
+        "material": "Cord Yarn Medium",
+        "size": "",
+        "color" : "Αποχρώσεις Μπλε - Κίτρινου",
+        "price": "",
+        "image": "../bags/images/bag34.png"
+    },
+
+    {
+        "title": "Liléa",
+        "description": "(Totebag)",
+        "material": "Μακό νήμα",
+        "size": "",
+        "color" : "Λιλά",
+        "price": "",
+        "image": "../bags/images/bag37.png"
+    },
+
+    {
+        "title": "Nikol",
+        "description": "",
+        "material": "Yuta, Βαμβακερό νήμα",
+        "size": "31cm x 20cm x 14cm",
+        "color" : "Baby Blue - Baby Pink - Μπεζ",
+        "price": "",
+        "image": "../bags/images/bag40.png"
+    },
+
+    {
+        "title": "Puffy",
+        "description": "",
+        "material": "Puffy",
+        "size": "Όλες",
+        "color" : "Όλα",
+        "price": "",
+        "image": "../bags/images/bag41.png"
+    },
+
+    {
+        "title": "Pinky",
+        "description": "",
+        "material": "Marshmallow",
+        "size": "34cm x 29cm",
+        "color" : "Ροζ",
+        "price": "",
+        "image": "../bags/images/bag42.png"
+    }
+]

@@ -7,6 +7,7 @@
         "price": "",
         "image": "../bags/images/white_bag.png"
     },
+
     {
         "title": "2",
         "description": "",
@@ -15,6 +16,7 @@
         "price": "",
         "image": "../bags/images/light_blue_bag.png"
     },
+
     {
         "title": "3",
         "description": "",
@@ -23,6 +25,7 @@
         "price": "",
         "image": "../bags/images/black_bag.png"
     },
+
     {
         "title": "4",
         "description": "",
@@ -31,6 +34,7 @@
         "price": "",
         "image": "../bags/images/brown_bag2.png"
     },
+
     {
         "title": "5",
         "description": "",
@@ -39,6 +43,7 @@
         "price": "",
         "image": "../bags/images/purple_bag.png"
     },
+
     {
         "title": "6",
         "description": "",
@@ -47,6 +52,7 @@
         "price": "",
         "image": "../bags/images/white_bag2.png"
     },
+
     {
         "title": "7",
         "description": "",
@@ -55,6 +61,7 @@
         "price": "",
         "image": "../bags/images/blue_bag.png"
     },
+
     {
         "title": "8",
         "description": "",
@@ -63,6 +70,7 @@
         "price": "",
         "image": "../bags/images/green_something.png"
     },
+
     {
         "title": "9",
         "description": "",
@@ -71,6 +79,7 @@
         "price": "",
         "image": "../bags/images/brown_bag.png"
     },
+
     {
         "title": "10",
         "description": "",
@@ -79,324 +88,364 @@
         "price": "",
         "image": "../bags/images/white_bag.png"
     },
+
     {
         "title": "11",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag36.jpg"
+        "image": "../bags/images/bag36.png"
     },
+
     {
         "title": "12",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag39.jpg"
+        "image": "../bags/images/bag39.png"
     },
+
     {
         "title": "13",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag1.jpg"
+        "image": "../bags/images/bag1.png"
     },
+
     {
         "title": "14",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag.jpg"
+        "image": "../bags/images/bag.png"
     },
+    
     {
         "title": "15",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag2.jpg"
+        "image": "../bags/images/bag2.png"
     },
+    
     {
         "title": "16",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag3.jpg"
+        "image": "../bags/images/bag3.png"
     },
+    
     {
         "title": "Melody",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag4.jpg"
+        "image": "../bags/images/bag4.png"
     },
+    
     {
         "title": "17",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag5.jpg"
+        "image": "../bags/images/bag5.png"
     },
+    
     {
         "title": "Bowtie",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag6.jpg"
+        "image": "../bags/images/bag6.png"
     },
+    
     {
         "title": "18",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag7.jpg"
+        "image": "../bags/images/bag7.png"
     },
+    
     {
         "title": "Terracotta",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag8.jpg"
+        "image": "../bags/images/bag8.png"
     },
+    
     {
         "title": "Marina",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag9.jpg"
+        "image": "../bags/images/bag9.png"
     },
+    
     {
         "title": "19",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag10.jpg"
+        "image": "../bags/images/bag10.png"
     },
+    
     {
         "title": "20",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag11.jpg"
+        "image": "../bags/images/bag11.png"
     },
+    
     {
         "title": "21",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag12.jpg"
+        "image": "../bags/images/bag12.png"
     },
+    
     {
         "title": "22",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag13.jpg"
+        "image": "../bags/images/bag13.png"
     },
+    
     {
         "title": "Χλόη",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag14.jpg"
+        "image": "../bags/images/bag14.png"
     },
+    
     {
         "title": "23",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag15.jpg"
+        "image": "../bags/images/bag15.png"
     },
+    
     {
         "title": "Ίριδα",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag16.jpg"
+        "image": "../bags/images/bag16.png"
     },
+    
     {
         "title": "Chessboard",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag17.jpg"
+        "image": "../bags/images/bag17.png"
     },
+    
     {
         "title": "Amber",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag18.jpg"
+        "image": "../bags/images/bag18.png"
     },
+    
     {
         "title": "Sunflower",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag19.jpg"
+        "image": "../bags/images/bag19.png"
     },
+    
     {
         "title": "24",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag20.jpg"
+        "image": "../bags/images/bag20.png"
     },
+    
     {
         "title": "25",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag21.jpg"
+        "image": "../bags/images/bag21.png"
     },
+    
     {
         "title": "26",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag22.jpg"
+        "image": "../bags/images/bag22.png"
     },
+
     {
         "title": "Nix",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag23.jpg"
+        "image": "../bags/images/bag23.png"
     },
+    
     {
         "title": "Florèa",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag24.jpg"
+        "image": "../bags/images/bag24.png"
     },
+    
     {
         "title": "Bebeka",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag25.jpg"
+        "image": "../bags/images/bag25.png"
     },
+    
     {
         "title": "Moca",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag26.jpg"
+        "image": "../bags/images/bag26.png"
     },
+    
     {
         "title": "Γαία",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag27.jpg"
+        "image": "../bags/images/bag27.png"
     },
+    
     {
         "title": "Azul",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag28.jpg"
+        "image": "../bags/images/bag28.png"
     },
+    
     {
         "title": "Velvet Mint",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag29.jpg"
+        "image": "../bags/images/bag29.png"
     },
+    
     {
         "title": "Sandy",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag30.jpg"
+        "image": "../bags/images/bag30.png"
     },
+    
     {
         "title": "Blush",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag31.jpg"
+        "image": "../bags/images/bag31.png"
     },
+    
     {
         "title": "Olea",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag32.jpg"
+        "image": "../bags/images/bag32.png"
     },
+    
     {
         "title": "Aura",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag33.jpg"
+        "image": "../bags/images/bag33.png"
     },
+    
     {
         "title": "Sunset Mix",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag34.jpg"
+        "image": "../bags/images/bag34.png"
     },
+    
     {
         "title": "30",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag35.jpg"
+        "image": "../bags/images/bag35.png"
     },
+
     {
         "title": "31",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag37.jpg"
+        "image": "../bags/images/bag37.png"
     },
+    
     {
         "title": "32",
         "description": "",
         "material": "",
         "size": "",
         "price": "",
-        "image": "../bags/images/bag38.jpg"
+        "image": "../bags/images/bag38.png"
     }
 ]

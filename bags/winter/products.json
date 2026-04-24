@@ -1,1 +1,11 @@
-
+[
+    {
+        "title": "Aurelia",
+        "description": "",
+        "material": "Μαλλί",
+        "size": "",
+        "color" : "Λευκό",
+        "price": "",
+        "image": "../bags/images/bag5.png"
+    }
+]

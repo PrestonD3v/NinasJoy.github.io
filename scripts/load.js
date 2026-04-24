@@ -7,6 +7,11 @@ const fieldConfig = {
     icon: "../assets/size.png",
     label: "Size"
   },
+  color: {
+    icon: "../assets/color.png",
+    label: "Color"
+  },
+
   price: {
     icon: "../assets/euro.png",
     label: "Price",
